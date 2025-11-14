@@ -1,0 +1,14 @@
+.character-selection {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr; 
+    gap: 30px;
+    width: 90%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.card-druid {
+    border-color: #4caf50;
+    background-color: #ffffff;
+}
+
